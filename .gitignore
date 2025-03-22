@@ -1,0 +1,9 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore other unnecessary files
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+.DS_Store
